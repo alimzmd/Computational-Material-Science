@@ -1,0 +1,2 @@
+Citation
+Radnik, J. (2021). BAM reference data: XPS raw data of Al-coated titania nanoparticles (JRCNM62001a and JRCNM62002a) [Dataset]. In Nanomaterials (Vol. 11, p. 639). Zenodo. https://doi.org/10.5281/zenodo.4986068
